@@ -22,5 +22,12 @@ A recreation of the retro TMNT(Teenage Mutant Ninja Turtles) NES game using Pyth
 2. Install the required dependencies
 3. Then run main.py
 
+## Game Instruction
+←  Left Arrow     - Move Left  
+→  Right Arrow    - Move Right  
+↓  Down Arrow     - Crouch / Down
+X                 - Jump  
+Z                 - Attack
+
 ## Useful Links
 - https://www.retrogames.cz/play_015-NES.php

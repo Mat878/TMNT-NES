@@ -1,7 +1,7 @@
 # TMNT-NES
 
 ## Overview
-A recreation of the retro TMNT(Teenage Mutant Ninja Turtles) NES game using Python. This project aims to replicate the original game mechanics and graphics, it includes the overworld and the first two levels.
+A recreation of the retro TMNT(Teenage Mutant Ninja Turtles) NES game using Python and Pygame. This project aims to replicate the original game mechanics, graphics, gameplay and audio. It includes the overworld and the first two levels.
 
 <img src="https://github.com/user-attachments/assets/b8e12ac4-5942-423c-8555-214e4ee15b4c" alt="Screenshot 2025-01-25 145321" width="400"/>
 <img src="https://github.com/user-attachments/assets/eda55837-fac6-4fce-be30-acfc7014c49b" alt="Screenshot 2025-01-25 145357" width="400"/>
@@ -9,6 +9,7 @@ A recreation of the retro TMNT(Teenage Mutant Ninja Turtles) NES game using Pyth
 <img src="https://github.com/user-attachments/assets/bb0fbb31-58cf-4ff5-94ca-cc4e99b16b51" alt="Screenshot 2025-01-25 145502" width="400"/>
 
 ## Dependencies
+- Python
 - pygame-ce
 - pypng
 - PyTMX

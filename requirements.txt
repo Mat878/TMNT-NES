@@ -1,0 +1,6 @@
+pygame-ce
+pypng
+PyTMX
+six
+timer
+tmxlib

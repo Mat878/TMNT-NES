@@ -20,7 +20,7 @@ A recreation of the retro TMNT(Teenage Mutant Ninja Turtles) NES game using Pyth
 ## Getting Started
 1. Clone this repository to your local machine
 2. Install the required dependencies
-3. Then run main.py
+3. In the code folder run main.py
 
 ## Game Instructions
 **Move Left:** Left Arrow  
